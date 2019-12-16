@@ -1,0 +1,5 @@
+#rodape{
+    display:flex;
+    justify-content:center;
+    background-color: rgb(83, 111, 172);
+}
